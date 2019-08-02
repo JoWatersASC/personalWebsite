@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+footer{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+}
+body{
+    background: url("argyle.jpg");
+    background-size: cover;
+
+}
+p{
+    background-color: aliceblue;
+}
